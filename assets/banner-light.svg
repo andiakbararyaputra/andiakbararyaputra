@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="Andi Akbar Arya Putra — GitHub Profile Banner">
+  <defs>
+    <linearGradient id="bgLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="60%" stop-color="#fafbfc" />
+      <stop offset="100%" stop-color="#f6f8fa" />
+    </linearGradient>
+    <radialGradient id="glowLight" cx="85%" cy="25%" r="55%">
+      <stop offset="0%" stop-color="#0969da" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="dotsLight" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#656d76" />
+    </pattern>
+  </defs>
+
+  <!-- Outer card -->
+  <rect x="1" y="1" width="1198" height="248" rx="14" fill="url(#bgLight)" stroke="#d0d7de" stroke-width="1.5" />
+  <rect x="2" y="2" width="1196" height="246" rx="13" fill="url(#glowLight)" />
+  <rect x="640" y="18" width="540" height="214" rx="10" fill="url(#dotsLight)" opacity="0.08" />
+
+  <!-- Top-left minimal terminal window motif -->
+  <circle cx="62" cy="40" r="5" fill="#d0d7de" />
+  <circle cx="80" cy="40" r="5" fill="#afb8c1" />
+  <circle cx="98" cy="40" r="5" fill="#8c959f" />
+  <text x="118" y="44" fill="#57606a" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">~/andiakbararyaputra/profile.md</text>
+
+  <!-- Left hero text -->
+  <text x="56" y="96" fill="#656d76" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">@andiakbararyaputra</text>
+  <!-- [EDIT] Update your display name or headline text below -->
+  <text x="56" y="144" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-0.5">Andi Akbar Arya Putra</text>
+  <text x="56" y="182" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17">Software Engineering  ·  Linux &amp; Systems  ·  Modern Web</text>
+
+  <!-- Right-side minimal terminal info card -->
+  <rect x="800" y="46" width="348" height="158" rx="10" fill="#ffffff" stroke="#d8dee4" stroke-width="1" />
+
+  <!-- [EDIT] Update status, location, languages, and focus fields below -->
+  <g font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
+    <circle cx="826" cy="79" r="4" fill="#1a7f37" />
+    <text x="840" y="83" fill="#656d76">status</text>
+    <text x="912" y="83" fill="#1f2328">: open to collaborate</text>
+
+    <circle cx="826" cy="109" r="2" fill="#d0d7de" />
+    <text x="840" y="113" fill="#656d76">location</text>
+    <text x="912" y="113" fill="#1f2328">: Indonesia</text>
+
+    <circle cx="826" cy="139" r="2" fill="#d0d7de" />
+    <text x="840" y="143" fill="#656d76">lang</text>
+    <text x="912" y="143" fill="#1f2328">: EN / ID</text>
+
+    <circle cx="826" cy="169" r="2" fill="#d0d7de" />
+    <text x="840" y="173" fill="#656d76">focus</text>
+    <text x="912" y="173" fill="#1f2328">: modular &amp; clean software</text>
+  </g>
+</svg>
