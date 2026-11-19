@@ -18,17 +18,16 @@
   </picture>
 
   <!-- 2b. Navigasi Tautan Minimalis & Pengalih Bahasa -->
-  <!-- [EDIT] Ganti tautan Website portofolio dan CV/Resume Anda -->
   <p>
     <a href="./README.md">🇬🇧 English</a> &nbsp;•&nbsp;
     <strong>🇮🇩 Bahasa Indonesia</strong> &nbsp;•&nbsp;
-    <a href="https://your-domain.dev">Website</a> &nbsp;•&nbsp;
-    <a href="https://your-domain.dev/resume.pdf">CV / Resume</a>
+    <a href="https://andiakbararyaputra.github.io">Web Portofolio</a>
   </p>
 
   <!-- 2c. Deretan Badge Monokrom Seragam -->
   <!-- [EDIT] Sesuaikan handle LinkedIn dan alamat email Anda -->
   <p>
+    <a href="https://andiakbararyaputra.github.io"><img src="https://img.shields.io/badge/portofolio-andiakbararyaputra.github.io-313131?style=flat&amp;labelColor=545454&amp;logo=vercel&amp;logoColor=white" alt="Web Portofolio" /></a>
     <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/linkedin-%2Fin%2Fyour--handle-313131?style=flat&amp;labelColor=545454&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-kontak-313131?style=flat&amp;labelColor=545454&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
     <a href="https://github.com/andiakbararyaputra"><img src="https://img.shields.io/badge/github-@andiakbararyaputra-313131?style=flat&amp;labelColor=545454&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
@@ -67,12 +66,11 @@
 ---
 
 <!-- 4. Proyek Unggulan — Tabel 2 Kolom per Domain -->
-<!-- [EDIT] Ganti slot placeholder dengan repositori unggulan, dampak proyek, dan tautan demo Anda -->
 ### ✦ Proyek Unggulan
 
-| Sistem, Linux &amp; Perkakas | Web, Aplikasi &amp; Proyek Akhir |
+| Sistem, Mobile &amp; Perkakas | Web, Full-Stack &amp; AI Terapan |
 | :--- | :--- |
-| • **[tonal-dots](https://github.com/andiakbararyaputra/tonal-dots)** — Konfigurasi desktop Hyprland 0.57 (Lua) + shell Noctalia v5 yang modular, dilengkapi tema warna Material 3 berbasis *wallpaper*, auto-PiP pintar via D-Bus, dan plugin *Desk Clock* kustom.<br/>• **[proyek-cli-atau-tool](https://github.com/andiakbararyaputra)** — *[Placeholder]* Ringkasan satu baris mengenai masalah yang diselesaikan dan arsitektur utamanya. | • **[aplikasi-web-unggulan](https://github.com/andiakbararyaputra)** — *[Placeholder]* Sorotan aplikasi *full-stack* untuk menyelesaikan `[masalah]` dengan `[stack]` · `[Demo Langsung](#)`.<br/>• **[proyek-backend-atau-ai](https://github.com/andiakbararyaputra)** — *[Placeholder]* Layanan API, aplikasi *mobile*, atau proyek AI/data beserta hasil terukurnya. |
+| • **[tonal-dots](https://github.com/andiakbararyaputra/tonal-dots)** — Konfigurasi desktop Hyprland 0.57 (Lua) + Noctalia v5 yang modular, dilengkapi tema Material 3, auto-PiP via D-Bus, dan plugin *Desk Clock*.<br/>• **[Finara](https://github.com/andiakbararyaputra/Finara)** — Aplikasi Android Flutter untuk alokasi keuangan pribadi berbasis Drift SQLite terenkripsi, DANA+, dan asisten AI.<br/>• **[bank-terdistribusi](https://github.com/andiakbararyaputra/bank-terdistribusi)** — Simulasi bank terdistribusi 3 node XML-RPC dengan replikasi state, failover otomatis, dan dashboard Flask.<br/>• **[nfa-dfa-toolkit](https://github.com/andiakbararyaputra/nfa-dfa-toolkit)** — Toolkit CLI Java untuk mendefinisikan ε-NFA / DFA serta konversi *subset construction*. | • **[Web Portofolio Cyberpunk](https://andiakbararyaputra.github.io)** — Portofolio interaktif bergaya *Acid-Volt Cyber Brutalism* dengan React 19, TypeScript, GSAP ScrollTrigger &amp; Web Audio ([kode](https://github.com/andiakbararyaputra/andiakbararyaputra.github.io)).<br/>• **[INTERVIEW-APP](https://github.com/andiakbararyaputra/INTERVIEW-APP)** — Asisten wawancara *client-side* dengan pencarian MiniSearch &amp; sitasi berkas lokal.<br/>• **[Top250](https://github.com/andiakbararyaputra/Top250)** — Katalog film IMDb Top 250 *dark cinematic* memakai Next.js 15, Fastify 5, MongoDB 7 &amp; MinIO.<br/>• **[maxres](https://github.com/andiakbararyaputra/maxres)** — Aplikasi *AI image upscaler* 100% offline (Tauri v2) · **[SIFA](https://github.com/Muh-Asad-Habib/sistem_informasi_falak_terintegrasi)** *(Kolaborator)* — Platform PWA ilmu falak terpadu. |
 
 ---
 

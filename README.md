@@ -18,17 +18,16 @@
   </picture>
 
   <!-- 2b. Minimal Dot-Separated Navigation & Language Switcher -->
-  <!-- [EDIT] Replace portfolio & resume URLs below -->
   <p>
     <strong>🇬🇧 English</strong> &nbsp;•&nbsp;
     <a href="./README.id.md">🇮🇩 Bahasa Indonesia</a> &nbsp;•&nbsp;
-    <a href="https://your-domain.dev">Website</a> &nbsp;•&nbsp;
-    <a href="https://your-domain.dev/resume.pdf">Resume / CV</a>
+    <a href="https://andiakbararyaputra.github.io">Portfolio Web</a>
   </p>
 
   <!-- 2c. Cohesive Monochrome Badges Strip -->
   <!-- [EDIT] Replace LinkedIn handle and email address below -->
   <p>
+    <a href="https://andiakbararyaputra.github.io"><img src="https://img.shields.io/badge/portfolio-andiakbararyaputra.github.io-313131?style=flat&amp;labelColor=545454&amp;logo=vercel&amp;logoColor=white" alt="Portfolio Website" /></a>
     <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/linkedin-%2Fin%2Fyour--handle-313131?style=flat&amp;labelColor=545454&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-contact-313131?style=flat&amp;labelColor=545454&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
     <a href="https://github.com/andiakbararyaputra"><img src="https://img.shields.io/badge/github-@andiakbararyaputra-313131?style=flat&amp;labelColor=545454&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
@@ -67,12 +66,11 @@
 ---
 
 <!-- 4. Featured Projects — 2-Column Category Table -->
-<!-- [EDIT] Replace the placeholder rows with your flagship repositories, impact metrics, and live links -->
 ### ✦ Featured Projects
 
-| Systems, Linux &amp; Tooling | Web, Applications &amp; Capstone |
+| Systems, Mobile &amp; Tooling | Web, Full-Stack &amp; Applied AI |
 | :--- | :--- |
-| • **[tonal-dots](https://github.com/andiakbararyaputra/tonal-dots)** — Modular Lua Hyprland 0.57 + Noctalia v5 desktop environment with Material 3 wallpaper-driven colors, smart D-Bus auto-PiP, and a custom Desk Clock notification plugin.<br/>• **[project-cli-or-tool](https://github.com/andiakbararyaputra)** — *[Placeholder]* One-line impact summary explaining what problem this tool solves and how it is built. | • **[featured-web-app](https://github.com/andiakbararyaputra)** — *[Placeholder]* Full-stack application highlight solving `[problem]` with `[stack]` · `[Live Demo](#)`.<br/>• **[backend-or-capstone-project](https://github.com/andiakbararyaputra)** — *[Placeholder]* API service, mobile app, or AI/data project with measurable engineering outcome. |
+| • **[tonal-dots](https://github.com/andiakbararyaputra/tonal-dots)** — Modular Lua Hyprland 0.57 + Noctalia v5 desktop environment with Material 3 wallpaper-driven colors, smart D-Bus auto-PiP, and custom Desk Clock plugin.<br/>• **[Finara](https://github.com/andiakbararyaputra/Finara)** — Flutter Android personal finance allocation app with encrypted Drift SQLite, Bibit/Stockbit/DANA+ tracking, and AI assistant.<br/>• **[bank-terdistribusi](https://github.com/andiakbararyaputra/bank-terdistribusi)** — 3-node XML-RPC distributed bank simulation with peer replication, failover, and Flask live topology dashboard.<br/>• **[nfa-dfa-toolkit](https://github.com/andiakbararyaputra/nfa-dfa-toolkit)** — Java CLI toolkit for ε-NFA / DFA definition and step-by-step subset construction. | • **[Cyberpunk Portfolio](https://andiakbararyaputra.github.io)** — Interactive Acid-Volt Cyber-Brutalist portfolio built with React 19, TypeScript, GSAP ScrollTrigger &amp; Web Audio ([source](https://github.com/andiakbararyaputra/andiakbararyaputra.github.io)).<br/>• **[INTERVIEW-APP](https://github.com/andiakbararyaputra/INTERVIEW-APP)** — Client-side Grounded Interview Assistant with MiniSearch retrieval and strict file citations.<br/>• **[Top250](https://github.com/andiakbararyaputra/Top250)** — Dark cinematic IMDb Top 250 explorer built with Next.js 15, Fastify 5, MongoDB 7, and MinIO.<br/>• **[maxres](https://github.com/andiakbararyaputra/maxres)** — 100% offline Tauri v2 AI image upscaler (2x–16x) · **[SIFA](https://github.com/Muh-Asad-Habib/sistem_informasi_falak_terintegrasi)** *(Collaborator)* — Offline-first Islamic astronomy PWA. |
 
 ---
 
